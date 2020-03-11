@@ -1,2 +1,2 @@
-# 30-DaysOfCode
-30 Day Code Challenge on Hackerrank
+# AnotherBasic
+Another bunch of few Basic Java Programes!
