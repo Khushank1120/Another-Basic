@@ -7,7 +7,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Day7Arrays {
+public class Arrays {
 
 	public static class Solution {
 
