@@ -7,7 +7,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Day3IntroToConditionalStatements {
+public class IntroToConditionalStatements {
 
 	    private static final Scanner scanner = new Scanner(System.in);
 
