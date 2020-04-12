@@ -4,7 +4,7 @@ import java.util.*;
 import java.text.*;
 import java.math.*;
 import java.util.regex.*;
-public class Day112DArrays {
+public class 2DArrays {
 
 
         public static void main(String[] args) {
