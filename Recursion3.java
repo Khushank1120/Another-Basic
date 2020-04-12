@@ -8,7 +8,7 @@ import java.util.concurrent.*;
 import java.util.regex.*;
 
 
-public class Day9Recursion3 {
+public class Recursion3 {
 	
 	    public static int factorial(int n){
 	        return (n > 1) ? n * factorial(n - 1) : 1;
