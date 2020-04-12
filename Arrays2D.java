@@ -4,7 +4,7 @@ import java.util.*;
 import java.text.*;
 import java.math.*;
 import java.util.regex.*;
-public class 2DArrays {
+public class Arrays2D {
 
 
         public static void main(String[] args) {
