@@ -5,7 +5,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class Day0HelloWorld {
+public class HelloWorld {
 	
 		public static void main(String[] args) {
 	        // Create a Scanner object to read input from stdin.
