@@ -5,7 +5,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class Day1DataTypes {
+public class DataTypes {
 	
 	
 		
