@@ -2,7 +2,7 @@ package thirtyDaysOfCode;
 import java.util.*;
 import java.io.*;
 
-public class Day8DictionariesAndMaps {
+public class DictionariesAndMaps {
 
 
 	    public static void main(String []args){
