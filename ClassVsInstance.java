@@ -2,7 +2,7 @@ package thirtyDaysOfCode;
 import java.io.*;
 import java.util.*;
 
-public class Day4ClassVsInstance {
+public class ClassVsInstance {
 	
 
 	public static class Person {
