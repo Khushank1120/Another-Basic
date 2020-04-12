@@ -6,7 +6,7 @@ import java.math.*;
 import java.util.regex.*;
 import java.util.*;
 
-public class Day6LetsReview {
+public class LetsReview {
 
 
 	    public static void main(String[] args) {
