@@ -14,7 +14,7 @@ public class HelloWorld {
 			// Read a full line of input from stdin and save it to our variable, inputString.
 			String inputString = scan.nextLine(); 
 
-			// Close the scanner object, because we've finished reading 
+		   // Close the scanner object, because we've finished reading 
 	        // all of the input from stdin needed for this challenge.
 			scan.close(); 
 	      
