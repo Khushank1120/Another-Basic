@@ -30,8 +30,3 @@ public class LetsReview {
 	        scan.close();
 	    }
 	}
-
-
-
-
-
